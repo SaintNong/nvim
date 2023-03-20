@@ -8,6 +8,6 @@ require("plugins.lsp")
 require("plugins.treesitter")
 require("plugins.setup")
 
--- Themes
+-- Set Active Theme
 vim.cmd [[colorscheme rose-pine]]
 
